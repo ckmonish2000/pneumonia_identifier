@@ -17,6 +17,9 @@ checkout my run on [kaggle](https://www.kaggle.com/monishkarunakaran/pneumonia)
 * my model so far classifies with an average of 62% accuracy, on the test set and over 80% accuracy on the traing set.
 * few outputs are not displyed inline in my ipynb notebook.
 
+#### About the labels
+* 0 --> Pneumonia
+* 1 --> Normal
 
 
 
